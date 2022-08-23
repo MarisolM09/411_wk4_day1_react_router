@@ -38,3 +38,14 @@ ul {
 .car-paper {
   padding: 50px;
 }
+
+h2 {
+  text-transform: capitalize;
+  padding-top: 30px;
+  padding-left: 20px;
+  margin-top: 80px;
+}
+.chip {
+  padding: 20px;
+  padding-bottom: 30px;
+}
